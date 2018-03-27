@@ -137,6 +137,7 @@
             "version-min": 13,
             "version-max": 13,
             "recommended": 1
-        }
+        },
+        "http://www.ganxiaozhe.com/mc/entitytool.html":{"title":"MINECRAFT ENTITY TOOL 实体生成器","tags":["自定义生成器","其他生成器/资源","NBT"],"category":"生成器/资源","version-min":11,"version-max":12,"last-update":"2018-03-24","recommended":"1"}
     }
 }
