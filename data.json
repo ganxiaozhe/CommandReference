@@ -32,6 +32,7 @@
         "https://i.loli.net/2018/03/28/5abb3a3c68305.png": "http://mc-command.oschina.io/command-tutorial/output/"
     },
     "threads": {
+        "http://www.ganxiaozhe.com/mc/tool/itemtool.php":{"title":"MIT 多功能物品生成器、记分板商店创建等","tags":["NBT","自定义生成器","其他生成器/资源","进阶"],"category":"生成器/资源","version-min":10,"version-max":13,"last-update":"2019-06-01","recommended":1,"authors":["甘小蔗"]},
         "http://www.mcbbs.net/thread-778336-1-1.html": {
             "title": "新命令/bossbar 自定义boss血条实现指向效果",
             "tags": [
